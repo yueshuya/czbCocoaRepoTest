@@ -1,0 +1,16 @@
+PODS:
+  - czbPodRepo1 (0.1.0)
+
+DEPENDENCIES:
+  - czbPodRepo1 (from `../`)
+
+EXTERNAL SOURCES:
+  czbPodRepo1:
+    :path: ../
+
+SPEC CHECKSUMS:
+  czbPodRepo1: 23fbad650cd39f186d60864203906babbc8eab35
+
+PODFILE CHECKSUM: cd682a92616a32d96099728ae655a4d126345313
+
+COCOAPODS: 1.0.1

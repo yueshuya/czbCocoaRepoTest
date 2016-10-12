@@ -1,0 +1,22 @@
+{
+  "name": "czbPodRepo1",
+  "version": "0.1.0",
+  "summary": "A short description of czbPodRepo1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/czbPodRepo1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "陈中宝": "bao.yu1990@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/czbPodRepo1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "czbPodRepo1/Classes/**/*"
+}
