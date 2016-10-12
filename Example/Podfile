@@ -1,0 +1,6 @@
+use_frameworks!
+target 'czbPodRepo1_Tests' do
+  pod 'czbPodRepo1', :path => '../'
+  
+  
+end
